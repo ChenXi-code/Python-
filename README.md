@@ -38,18 +38,6 @@ conda update conda
 conda update anaconda
 ```
 
----
-
-## 参考
-
-- [Enthought Training on Demand](https://training.enthought.com/)
-- [Computational Statistics in Python](http://people.duke.edu/~ccc14/sta-663/index.html#rd)
-- [Scipy.org](http://scipy.org/)
-- [Deep Learning Tutorials](http://deeplearning.net/tutorial/)
-- [High Performance Scientific Computing](http://faculty.washington.edu/rjl/uwhpsc-coursera/index.html)
-- [Scipy Lectures](http://www.scipy-lectures.org/)
-- [Pandas.org](http://pandas.pydata.org/pandas-docs/stable/index.html)
-
 ----
 
 ## 目录
@@ -212,4 +200,14 @@ conda update anaconda
 	 - [12.02 一维数据结构：Series](12-pandas/12.02-series-in-pandas.ipynb)
 	 - [12.03 二维数据结构：DataFrame](12-pandas/12.03-dataframe-in-pandas.ipynb)
 
-觉得有用打赏一下？
+---
+
+## 参考
+
+- [Enthought Training on Demand](https://training.enthought.com/)
+- [Computational Statistics in Python](http://people.duke.edu/~ccc14/sta-663/index.html#rd)
+- [Scipy.org](http://scipy.org/)
+- [Deep Learning Tutorials](http://deeplearning.net/tutorial/)
+- [High Performance Scientific Computing](http://faculty.washington.edu/rjl/uwhpsc-coursera/index.html)
+- [Scipy Lectures](http://www.scipy-lectures.org/)
+- [Pandas.org](http://pandas.pydata.org/pandas-docs/stable/index.html)
