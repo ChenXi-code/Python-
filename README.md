@@ -11,6 +11,8 @@
 
 默认安装了 `Python 2.7`，以及相关的第三方包 `ipython`， `numpy`， `scipy`，`pandas`。
 
+如果你的Python 为3以上版本，需要更新部分代码
+
 > life is short. use python.
 
 推荐使用 [Anaconda](http://www.continuum.io/downloads)，这个IDE集成了大部分常用的包。
