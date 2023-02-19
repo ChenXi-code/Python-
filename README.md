@@ -3,10 +3,6 @@
 
 # 中文 Python 笔记
 
-> 版本：0.0.1<br>
-> 作者：李金<br>
-> 邮件：lijinwithyou@gmail.com<br>
-
 `Github` 加载 `.ipynb` 的速度较慢，建议在 [Nbviewer](http://nbviewer.ipython.org/github/lijin-THU/notes-python/blob/master/index.ipynb) 中查看该项目。
 
 ---
@@ -217,5 +213,3 @@ conda update anaconda
 	 - [12.03 二维数据结构：DataFrame](12-pandas/12.03-dataframe-in-pandas.ipynb)
 
 觉得有用打赏一下？
-
-![](payment.jpg)
